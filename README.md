@@ -1,2 +1,2 @@
 # data_science_lab-tutorials
-machine learning course notes
+This repository has been simply created as a file with machine learning course notes.
